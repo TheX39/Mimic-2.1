@@ -28,9 +28,7 @@ Inference Latency: <15ms per layer (Local Monolithic Execution)
 VRAM Footprint: 4.2GB (Optimized via 4-bit LLM Distillation)
 🚀 Getting Started
 
-To initialize the Ω₀ framework and run the monolithic engine, execute the main entry point:
-
-python Mimic-2.1_Monolith_Stable.py --mode production --heartbeat_sync true
+To initialize the Ω₀ framework and run the monolithic engine, execute the main entry point by running the EXE.
 
 System Requirements
 Memory: 64GB RAM (Minimum for 20GB Folder Loading)
