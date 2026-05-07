@@ -11,21 +11,23 @@ NOTICE: This build is 100% Offline-Native. No external API calls (Claude Opus / 
 Mimic-2.1 operates on a 10-layer Cognitive Stack designed for high-fidelity human mimicry. Unlike standard LLM “wrappers,” this system utilizes an asynchronous Heartbeat Loop to manage live state transitions.
 
 Layer Specifications
-Interface (Tkinter/GUI): Real-time monitoring of internal I/O boundaries
-Personality (Live State): Dynamic JSON-weighted behavioral bias (Persistence: Hot)
-Perception: Multimodal input vectorization
-Meaning: Semantic grounding via BERT-Intent clustering
-Intent: Custom-trained recognition (F1 Score: 0.87 | Sparsity: 0.0046%)
-Memory: SQLite-backed relational context persistence
-Reasoning: Non-linear decision-making logic gates
-Decision: Objective-driven response selection
-Response: Human-mimicry optimized generation
-Self-Monitor: Continuous logic validation and loop prevention
+- Interface (Tkinter/GUI): Real-time monitoring of internal I/O boundaries
+- Personality (Live State): Dynamic JSON-weighted behavioral bias (Persistence: Hot)
+- Perception: Multimodal input vectorization
+- Meaning: Semantic grounding via BERT-Intent clustering
+- Intent: Custom-trained recognition (F1 Score: 0.87 | Sparsity: 0.0046%)
+- Memory: SQLite-backed relational context persistence
+- Reasoning: Non-linear decision-making logic gates
+- Decision: Objective-driven response selection
+- Response: Human-mimicry optimized generation
+- Self-Monitor: Continuous logic validation and loop prevention
+
 🛠️ Performance Metrics
-Dataset: 684,000+ high-quality generalized samples
-Labels: 300+ cognitive intent classifications
-Inference Latency: <15ms per layer (Local Monolithic Execution)
-VRAM Footprint: 4.2GB (Optimized via 4-bit LLM Distillation)
+- Dataset: 684,000+ high-quality generalized samples
+- Labels: 300+ cognitive intent classifications
+- Inference Latency: <15ms per layer (Local Monolithic Execution)
+- VRAM Footprint: 4.2GB (Optimized via 4-bit LLM Distillation)
+
 🚀 Getting Started
 
 To initialize the Ω₀ framework and run the monolithic engine, execute the main entry point by running the EXE.
