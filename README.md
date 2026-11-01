@@ -83,6 +83,7 @@ This repository was created specifically to address the **harassment, misinforma
 If you are reading this because you believe you **"deserve"** access to work you did not build, or because you engaged in a campaign of:
 *   Falsely accusing the creator of using third-party LLMs (e.g., "Opus" or "GPT wrappers").
 *   Demanding the release of private, unreleased code.
+*   Threatening the creator with theft and other disgusting behaviour
 *   Spreading malicious rumors or attempting to discredit the creator's technical achievements.
 
 **Then you have caught yourself.**
@@ -90,7 +91,7 @@ If you are reading this because you believe you **"deserve"** access to work you
 Upon execution of the main entry point (`Mimic-2.1.exe`), the system will not provide your requested AI. Instead, it will initiate a **non-malicious but highly intrusive diagnostic loop** designed to mirror the behavior of your harassment:
 1.  **Opening Tabs:** Rapidly opening multiple tabs displaying the message: **"U are an idiot"**.
 2.  **Audio Feedback:** A looping text-to-speech alert repeating the same message.
-3.  **Log Generation:** A local log file (`incident_log.txt`) will be created containing your system timestamp and user environment details (for your own awareness of how idiotic you are) its not for distribution btw..).
+3.  **Log Generation:** A local log file (`incident_log.txt`) will be created containing your system timestamp and user environment details (for your own awareness) its not for distribution btw..).
 
 ### ⚖️ Legal Consequences of Unauthorized Access & Distribution
 This is a **Honeypot**. Any attempt to:
