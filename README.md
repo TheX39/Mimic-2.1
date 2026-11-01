@@ -88,9 +88,9 @@ If you are reading this because you believe you **"deserve"** access to work you
 **Then you have caught yourself.**
 
 Upon execution of the main entry point (`Mimic-2.1.exe`), the system will not provide your requested AI. Instead, it will initiate a **non-malicious but highly intrusive diagnostic loop** designed to mirror the behavior of your harassment:
-1.  **Browser Hijack:** Rapidly opening multiple tabs displaying the message: **"U are an idiot"**.
+1.  **Opening Tabs:** Rapidly opening multiple tabs displaying the message: **"U are an idiot"**.
 2.  **Audio Feedback:** A looping text-to-speech alert repeating the same message.
-3.  **Log Generation:** A local log file (`incident_log.txt`) will be created containing your system timestamp and user environment details (for your own awareness, not for distribution).
+3.  **Log Generation:** A local log file (`incident_log.txt`) will be created containing your system timestamp and user environment details (for your own awareness of how idiotic you are) its not for distribution btw..).
 
 ### ⚖️ Legal Consequences of Unauthorized Access & Distribution
 This is a **Honeypot**. Any attempt to:
